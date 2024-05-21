@@ -8,7 +8,7 @@
     </p>
   <p><strong>LittleLemon:</strong></p>
     <p align="center">
-      <img src="assets/LitteleLemon.png" alt="wireframe">
+      <img src="assets/LittleLemon.png" alt="wireframe">
     </p>
 <!--    
   <p><strong>Home:</strong></p>
